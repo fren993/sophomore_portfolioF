@@ -1,6 +1,7 @@
 body{
   background-color: #f0c7e8;
   font-family: Inconsolata;
+  display: flex;
   align-content: center;
 }
 h1{
