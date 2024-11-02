@@ -13,7 +13,8 @@ p{
     
 }
 button{
-
+  border: solid;
+  padding: 10px;
   background-color: bisque;
   color: #b398ad;
 }
