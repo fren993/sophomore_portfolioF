@@ -5,7 +5,8 @@ body{
 }
 h1{
   font-size: 60px;
-    align-items: center;
+  display: flex;
+    align-self: center;
     font-family: Anton;
 }
 p{
