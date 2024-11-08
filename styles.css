@@ -37,6 +37,7 @@ img{
   flex-direction: row-reverse;
   justify-content: flex-end;
   align-self: flex-end;
+  width: 150px;
 
 }
 
