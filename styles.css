@@ -8,11 +8,7 @@ h1{
     display: flex;
     text-align: center;
     font-family: Anton;
-    margin: 0 auto;
-    position: absolute;
-    top: 50%;
-    width: 100%;
-  
+   
     
 }
 p{
