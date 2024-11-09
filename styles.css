@@ -9,6 +9,11 @@ h1{
     text-align: center;
     font-family: Anton;
     margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    
 }
 p{
     
