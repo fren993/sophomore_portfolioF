@@ -37,8 +37,8 @@ img{
 .images{
 
   display: flex;
-  flex-direction: row-reverse;
-  justify-content: flex-end;
+  flex-direction: row;
+  justify-content: flex-start;
   align-self: flex-end;
   width: 150px;
 
