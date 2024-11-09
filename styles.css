@@ -36,11 +36,7 @@ img{
 }
 .images{
 
-  display: flex;
+  display: flex; 
   flex-direction: row;
-  justify-content: flex-start;
-  align-self: flex-end;
-  width: 150px;
-
 }
 
