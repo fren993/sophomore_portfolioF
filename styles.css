@@ -4,10 +4,11 @@ body{
   
 }
 h1{
-  font-size: 60px;
-  display: flex;
-    align-self: center;
+    font-size: 60px;
+    display: flex;
+    text-align: center;
     font-family: Anton;
+    margin: 0 auto;
 }
 p{
     
