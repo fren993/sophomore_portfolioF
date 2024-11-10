@@ -4,11 +4,14 @@ body{
   
 }
 h1{
-    font-size: 60px;
-    text-align: center;
-    font-family: Anton;
-   
-    
+  font-size: 60px;
+  text-align: center;
+  font-family: Anton;
+}
+h2{
+
+  text-align: center;
+
 }
 p{
     
