@@ -9,17 +9,12 @@ h1{
   font-family: Anton;
 }
 h2{
-
   text-align: center;
-
 }
 p{
-    
   font-size: medium;
-  
 }
 button{
- 
   border: solid;
   padding: 10px;
   background-color: bisque;
@@ -31,7 +26,7 @@ img{
   width: 150px;
   border-style: double;
   border-width: 4px;
-  border-color: #f0c7e8;
+  border-color: #713d66;
 }
 
 
