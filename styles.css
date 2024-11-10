@@ -28,7 +28,8 @@ button{
 
 .images{
   align-self: center;
-  width: 250px;  
+  width: 50px;
+  border-style: solid;  
    
 }
 
