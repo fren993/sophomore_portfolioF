@@ -15,10 +15,12 @@ h2{
 }
 p{
   font-size: medium;
+  text-align: center;
   color:#AE1E25;
 }
 button{
   border: solid;
+  text-align: center;
   padding: 10px;
   background-color: bisque;
   color: #b398ad;
@@ -35,6 +37,7 @@ img{
 
 .container{
   color:#8a181d;
+  text-align: center;
 }
 
  
