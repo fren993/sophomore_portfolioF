@@ -6,11 +6,11 @@ h1{
   font-size: 60px;
   text-align: center;
   font-family: Anton;
-  color: #AE1E25;
+  color: #8a181d;
 }
 h2{
   text-align: center;
-  color:#AE1E25;
+  color:#8a181d;
 }
 a{
   text-align: center;
@@ -18,7 +18,7 @@ a{
 p{
   font-size: medium;
   text-align: center;
-  color:#AE1E25;
+  color:#8a181d;
 }
 button{
   border: solid;
@@ -40,7 +40,7 @@ img{
   width: 150px;
   border-style: double;
   border-width: 4px;
-  border-color: #AE1E25;
+  border-color: #8a181d;
 }
 
 .container{
