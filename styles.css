@@ -20,7 +20,9 @@ button{
   background-color: bisque;
   color: #b398ad;
 }
-
+.photos{
+  align-self: center;
+}
 img{
   width: 150px;
   border-style: double;
