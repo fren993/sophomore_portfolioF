@@ -27,8 +27,11 @@ button{
   background-color: bisque;
   color: #b398ad;
 }
+.lists{
+  list-style-type: none;
+}
 .photos{
-  align-self: center;
+  align-items: center;
 }
 img{
   width: 150px;
