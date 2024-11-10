@@ -30,6 +30,9 @@ button{
 ul.list{
   list-style-type: none;
 }
+.activitycontainer{
+  color:#8a181d;
+}
 .photos{
   align-items: center;
 }
