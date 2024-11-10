@@ -27,7 +27,7 @@ button{
   background-color: bisque;
   color: #b398ad;
 }
-.lists{
+ul.list{
   list-style-type: none;
 }
 .photos{
