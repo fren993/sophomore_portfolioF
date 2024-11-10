@@ -28,9 +28,12 @@ button{
 
 .images{
   align-self: center;
-  width: 50px;
   border-style: solid;  
-   
+  border-radius: 50px;
+  border: 1px solid #92326a;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
 
 .container {
