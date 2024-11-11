@@ -35,7 +35,8 @@ ul.list{
 }
 .photos{
   align-self: center;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 img{
   width: 150px;
