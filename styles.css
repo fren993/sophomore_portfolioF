@@ -47,6 +47,7 @@ img{
 }
 .activitycontainer{
   text-align: start;
+  display: flex;
 }
 .container{
   color:#8a181d;
