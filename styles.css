@@ -38,10 +38,7 @@ ul.list{
 .activitycontainer{
   color:#8a181d;
 }
-.photos{
-  align-self: center;
- 
-}
+
 img{
   width: 150px;
   border-style: double;
@@ -52,4 +49,5 @@ img{
 .container{
   color:#8a181d;
   text-align: center;
+  align-self: center;
 }
