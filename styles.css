@@ -20,8 +20,10 @@ a{
 }
 p{
   font-size: medium;
-  text-align: center;
   color:#8a181d;
+}
+.paragraph{
+  text-align: center;
 }
 button{
   border: solid;
