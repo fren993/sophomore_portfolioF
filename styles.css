@@ -40,14 +40,15 @@ ul.list{
 }
 
 img{
-  width: 100px;
+  width: 150px;
   border-style: double;
   border-width: 4px;
+  align-self: center;
   border-color: #8a181d;
 
 }
 .container{
   color:#8a181d;
   text-align: center;
-  align-self: center;
+
 }
