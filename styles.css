@@ -58,6 +58,5 @@ img{
   margin:0px auto;
   display: flex;
   flex-direction: column;
-  flex-wrap: nowrap;
  
 }
