@@ -53,7 +53,7 @@ img{
 
 .photos{
   width: 200px;
-  margin:0px auto;
+ align-self: center;
   flex-direction: row;
   display: flex; 
 }
