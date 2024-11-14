@@ -36,6 +36,9 @@ button{
 .activitycontainer{
   color:#8a181d;
 }
+ul.list{
+  list-style-type: none;
+}
 
 img{
   width: 150px;
