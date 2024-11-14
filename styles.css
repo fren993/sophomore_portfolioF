@@ -45,7 +45,7 @@ img{
   border-width: 4px;
   align-self: center;
   border-color: #8a181d;
-  flex-direction: column;
+  flex-direction: row;
   display: flex; 
 }
 .container{
