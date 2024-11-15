@@ -48,10 +48,10 @@ img{
 
 }
 
-a:link{color:rgb(210, 133, 146); background-color: #8a181d;}
-a:visited{color: rgb(255, 220, 220); background-color: #7d434f;}
-a:hover{color:whitesmoke; background-color: rgb(77, 13, 60); color:rgb(210, 133, 146);}
-a:active{color:black; background-color: orchid;}
+.list:link{color:rgb(255, 255, 255); background-color: #5f0c3b;}
+.list:visited{color: rgb(255, 220, 220); background-color: #7d434f;}
+.list:hover{color:whitesmoke; background-color: rgb(255, 255, 255); color:rgb(210, 133, 146);}
+.list:active{color:black; background-color: orchid;}
 
 
 .container{
