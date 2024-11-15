@@ -48,8 +48,8 @@ img{
 
 }
 
-.list:link{color:rgb(255, 255, 255); background-color: #5f0c3b;}
-.list:visited{color: rgb(255, 220, 220); background-color: #7d434f;}
+.list:link{color:rgb(255, 255, 255); background-color: #5f0c3b; font-size:large;}
+.list:visited{color: rgb(255, 220, 220); background-color: #7d434f; font-size: }
 .list:hover{color:whitesmoke; background-color: rgb(255, 255, 255); color:rgb(210, 133, 146);}
 .list:active{color:black; background-color: orchid;}
 
