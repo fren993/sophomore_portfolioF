@@ -55,7 +55,7 @@ img{
 
 .photos{
   width: 200px;
-  margin: 0% auto;
+  margin: 0px auto;
   flex-direction: row;
   display: flex; 
 }
