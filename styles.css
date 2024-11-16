@@ -5,22 +5,26 @@ body{
 h1{
   font-size: 60px;
   text-align: center;
-  font-family: Anton;
+  font-family: Static;
   color: #8a181d;
 }
 h2{
   text-align: center;
   color:#8a181d;
+  font-family: Anton;
 }
 a{
   text-align: center;
+  font-family: Anton;
 }
 .paragraph{
   text-align: start;
+  font-family: Anton;
 }
 p{
   font-size: medium;
   color:#8a181d;
+  font-family: Anton;
 }
 .paragraph{
   text-align: center;
@@ -50,7 +54,6 @@ img{
   border-style: double;
   border-width: 4px;
   border-color: #8a181d;
-
 }
 
 .list:link{color:rgb(255, 255, 255); background-color: #5f0c3b; font-size:20px;}
@@ -70,4 +73,8 @@ img{
   margin: 0px auto;
   flex-direction: row;
   display: flex; 
+}
+#contact-list{
+  color:#8a181d;
+  font-family: Anton;
 }
