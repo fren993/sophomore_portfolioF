@@ -17,6 +17,9 @@ a{
   text-align: center;
   font-family: Anton;
 }
+.anchor{
+  text-align: justify;
+}
 .paragraph{
   text-align: start;
   font-family: Anton;
