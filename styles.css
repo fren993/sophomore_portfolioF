@@ -13,25 +13,23 @@ h2{
   color:#8a181d;
   font-family: Anton;
 }
-a{
+ul.anchor{
+  text-align: justify;
   text-align: center;
   font-family: Anton;
-}
-.anchor{
-  text-align: justify;
+  
 }
 .paragraph{
   text-align: start;
   font-family: Anton;
+  text-align: center;
 }
 p{
   font-size: medium;
   color:#8a181d;
   font-family: Anton;
 }
-.paragraph{
-  text-align: center;
-}
+
 button{
   border: solid;
   text-align: center;
@@ -39,7 +37,6 @@ button{
   background-color: bisque;
   color: #b398ad;
 }
-
 .activitycontainer{
   color:#8a181d;
 }
