@@ -77,9 +77,5 @@ img{
   margin: 0px auto;
   flex-direction: row;
   display: flex; 
-}
-#contact-list{
-  color:#8a181d;
-  font-family: Anton;
-  font-size: 20px;
+  align-self: center;
 }
