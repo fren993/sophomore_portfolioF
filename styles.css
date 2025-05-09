@@ -21,7 +21,8 @@ ul.anchor{
   text-align: justify;
   text-align: center;
   font-family: Anton;
-  
+    display: block;
+  width: 60px;
 }
 
 p{
