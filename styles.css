@@ -23,11 +23,7 @@ ul.anchor{
   font-family: Anton;
   
 }
-.paragraph{
-  text-align: start;
-  font-family: Anton;
-  text-align: center;
-}
+
 p{
   font-size: medium;
   color:#8a181d;
@@ -41,18 +37,12 @@ button{
   background-color: bisque;
   color: #b398ad;
 }
-.activitycontainer{
-  color:#8a181d;
-}
+
 ul.list{
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-ul.lists{
-  list-style-type: none;
-}
-
 img{
   width: 150px;
   border-style: double;
@@ -60,22 +50,4 @@ img{
   border-color: #8a181d;
 }
 
-.list:link{color:rgb(255, 255, 255); background-color: #5f0c3b; font-size:20px; border-style: solid; border-color: #5f0c3b; border: 50px; align-items: center;}
-.list:visited{color: rgb(255, 220, 220); background-color: #7d434f; font-size: 23; }
-.list:hover{color:whitesmoke; background-color: rgb(255, 255, 255); color:rgb(210, 133, 146);}
-.list:active{color:black; background-color: orchid;}
 
-
-.container{
-  color:#8a181d;
-  text-align: center;
-
-}
-
-.photos{
-  width: 200px;
-  margin: 0px auto;
-  flex-direction: row;
-  display: flex; 
-  align-self: center;
-}
