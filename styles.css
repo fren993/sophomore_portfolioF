@@ -38,11 +38,7 @@ button{
   color: #b398ad;
 }
 
-ul.list{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
+
 img{
   width: 150px;
   border-style: double;
