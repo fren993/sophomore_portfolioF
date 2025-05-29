@@ -1,5 +1,5 @@
 body{
-  background-color: #D88193;
+background-color: #b398ad;
   font-family: Inconsolata;
 }
 h1{
@@ -18,7 +18,6 @@ h2{
   font-family: Anton;
 }
 ul.anchor{
-  text-align: justify;
   text-align: center;
   font-family: Anton;
 }
@@ -51,3 +50,14 @@ img{
 .container{
   display:flex;
 }
+
+a:hover{
+  background-color: #7e2a53;
+  text-decoration-color: rgb(236, 208, 236);
+}
+
+a{
+    background-color:rgb(70, 29, 58);
+     text-decoration-color: rgb(186, 113, 162) ;
+}
+
