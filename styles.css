@@ -6,15 +6,15 @@ h1{
   font-size: 60px;
   text-align: center;
   font-family: Static;
-  color: #8a181d;
+
 }
 h3{ text-align: center;
-  color:#8a181d;
+
   font-family: Anton;
 }
 h2{
   text-align: center;
-  color:#8a181d;
+
   font-family: Anton;
 }
 ul.anchor{
@@ -25,7 +25,6 @@ ul.anchor{
 
 p{
   font-size: medium;
-  color:#8a181d;
   font-family: Anton;
 }
 
@@ -48,16 +47,18 @@ img{
 
 
 .container{
-  display:flex;
+    text-decoration-color:rgb(70, 29, 58);
 }
 
 a:hover{
   background-color: #7e2a53;
   text-decoration-color: rgb(236, 208, 236);
+  text-align: right;
 }
 
 a{
     background-color:rgb(70, 29, 58);
      text-decoration-color: rgb(186, 113, 162) ;
+     text-align: right;
 }
 
